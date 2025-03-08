@@ -29,6 +29,6 @@ This is a GUI-based Currency Converter, designed to help users quickly convert b
 
 Currency_converter/
 │
-│── Currency_converter.py  # Individual project 
+│── Currency_converter.py  # My individual project 
 
 
